@@ -1,0 +1,9 @@
+samples:
+  SRR24283576:
+    R1: "data/samples/SRR24283576/SRR24283576_1.fastq"
+    R2: "data/samples/SRR24283576/SRR24283576_2.fastq"
+
+reference_genome: "data/ref/hg38.fa"
+known_sites_vcf: "data/known-sites/Homo_sapiens_assembly38.dbsnp138.vcf"
+data_sources: "tools/gatk/funcotator_dataSources.v1.7.20200521g"
+anno_db: "tools/annovar/humandb"

@@ -1,0 +1,8 @@
+samples:
+  Ali_Bahlas:
+    R1: "data/samples/Ali_Bahlas_1.fastq"
+    R2: "data/samples/Ali_Bahlas_2.fastq"
+
+reference_genome: "data/reference/hg38.fa"
+known_sites_vcf: "known_sites/Homo_sapiens_assembly38.dbsnp138.vcf"
+data_sources: "gatk-4.4.0.0/funcotator_dataSources.v1.7.20200521g"
